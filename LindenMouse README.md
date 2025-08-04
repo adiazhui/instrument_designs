@@ -1,6 +1,6 @@
 # LindenMouse
 
-LindenMouse is a Max/MSP instrument that uses mouse clicks and the position of your point on screen to generate simple harmonies with FM synthesis.
+LindenMouse is a Max/MSP instrument that uses mouse clicks and the position of your point on screen to generate simple harmonies with FM synthesis. This instrument utilizes the mousestate object to do this.
 
 ## Installation 
 
